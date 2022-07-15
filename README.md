@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [on Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Here](https://your-solution-url.com)
 - Live Site URL: [Here](https://seapagan-fem.github.io/testimonials-grid-section/)
 
 ## My process
