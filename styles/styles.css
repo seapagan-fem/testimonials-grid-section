@@ -16,7 +16,7 @@
   --moderate-violet: hsl(263, 55%, 52%);
   --very-dark-grayish-blue: hsl(217, 19%, 35%);
   --very-dark-blackish-blue: hsl(217, 30%, 14%);
-  --white: hwb(0 100% 0%);
+  --white-text: hwb(0 100% 0%);
 
   /* Neutral colors */
   --light-gray: hsl(0, 0%, 81%);
@@ -26,7 +26,7 @@
 body {
   margin: 71px 24px;
   background-color: var(--light-grayish-blue);
-  color: var(--white);
+  color: var(--white-text);
 }
 
 main {
@@ -53,14 +53,14 @@ article {
   background-color: var(--very-dark-grayish-blue);
 }
 .third {
-  background-color: var(--white);
+  background-color: var(--white-text);
   color: var(--very-dark-grayish-blue);
 }
 .fourth {
   background-color: var(--very-dark-blackish-blue);
 }
 .fifth {
-  background-color: var(--white);
+  background-color: var(--white-text);
   color: var(--very-dark-grayish-blue);
 }
 
