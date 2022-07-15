@@ -1,0 +1,29 @@
+/* --------------------------------- resets --------------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* --------------------- Variables and default font size -------------------- */
+:root {
+  font-size: 13px;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+/* ------------------- common styles to all article cards ------------------- */
+article {
+  border-radius: 8px;
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+  margin: 24px 0;
+  padding: 26px 32px 32px 32px;
+}
+
+/* ------------------------------- Attribution ------------------------------ */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
